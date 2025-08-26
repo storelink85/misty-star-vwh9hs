@@ -8,7 +8,7 @@ export default function App() {
           <span key={i} className="heart">❤️</span>
         ))}
       </div>
-      <h1 className="love-text">L'amore è la magia che unisce i cuori</h1>
+      <h1 className="love-text">L'amore è la magia che unisce i  cuori</h1>
     </div>
   );
 }
