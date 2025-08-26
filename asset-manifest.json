@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/misty-star-vwh9hs/static/css/main.a297afb7.css",
+    "main.js": "/misty-star-vwh9hs/static/js/main.d65078db.js",
+    "index.html": "/misty-star-vwh9hs/index.html",
+    "main.a297afb7.css.map": "/misty-star-vwh9hs/static/css/main.a297afb7.css.map",
+    "main.d65078db.js.map": "/misty-star-vwh9hs/static/js/main.d65078db.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a297afb7.css",
+    "static/js/main.d65078db.js"
+  ]
+}
